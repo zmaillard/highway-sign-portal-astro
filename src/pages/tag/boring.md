@@ -1,0 +1,5 @@
+---
+name: Boring
+slug: boring
+
+---

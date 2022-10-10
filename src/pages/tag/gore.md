@@ -1,0 +1,5 @@
+---
+name: Gore
+slug: gore
+
+---

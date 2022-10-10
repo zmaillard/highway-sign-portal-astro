@@ -1,0 +1,35 @@
+---
+import '../scss/main.scss'
+
+export interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+<!DOCTYPE html>
+<html class="has-navbar-fixed-top" lang="en">
+
+<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link href="https://fonts.googleapis.com/css?family=Rubik|Trirong|Overpass+Mono|Overpass" rel="stylesheet">
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+</head>
+
+<body>
+	<nav class="navbar" role="navigation" aria-label="main naviation">
+		<div class="navbar-brand"><a class="navbar-item" href="/"><img
+					src="https://roadsign.pictures/images/manifest192.png" alt="Logo"></a></div>
+	</nav>
+	   <slot name="header"/>
+    <div class="container">
+	   <slot />
+    </div>
+	   <slot name="footer"/>
+</body>
+
+</html>
+

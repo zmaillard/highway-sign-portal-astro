@@ -1,0 +1,5 @@
+---
+name: Powerplant
+slug: powerplant
+
+---

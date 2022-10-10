@@ -1,0 +1,5 @@
+---
+name: Diagram
+slug: diagram
+
+---

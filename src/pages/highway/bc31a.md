@@ -1,0 +1,18 @@
+---
+name: BC-31A
+slug: bc31a
+imageName: BC-31A.png
+highwayTypeName: British Columbia Provincial Highway
+highwayTypeSlug: british-columbia-provincial-highway
+states:
+    - name: British Columbia
+      slug: british-columbia
+      count: 0
+counties:
+    - name: Central Kootenay
+      slug: central-kootenay
+      stateName: British Columbia
+      stateSlug: british-columbia
+      count: 6
+
+---

@@ -1,0 +1,5 @@
+---
+name: Trucks
+slug: trucks
+
+---

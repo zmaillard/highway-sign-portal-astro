@@ -1,0 +1,5 @@
+---
+name: Weapons
+slug: weapons
+
+---

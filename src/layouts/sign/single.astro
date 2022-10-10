@@ -1,0 +1,14 @@
+---
+import Layout from "../Layout.astro";
+import type {Sign} from "../../types/Sign";
+import Single from "../../components/sign/Single.svelte"
+
+interface Props {
+  frontmatter: Sign
+}
+const { frontmatter } = Astro.props
+---
+
+<Layout title={frontmatter.title} >
+  <Single sign={frontmatter} />
+</Layout>

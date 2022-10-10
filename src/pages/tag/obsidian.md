@@ -1,0 +1,5 @@
+---
+name: Obsidian
+slug: obsidian
+
+---
