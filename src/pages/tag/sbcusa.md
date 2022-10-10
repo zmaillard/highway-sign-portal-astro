@@ -1,5 +1,0 @@
----
-name: sbcusa
-slug: sbcusa
-
----

@@ -1,5 +1,0 @@
----
-name: Ferries
-slug: ferries
-
----

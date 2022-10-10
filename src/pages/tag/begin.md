@@ -1,5 +1,0 @@
----
-name: Begin
-slug: begin
-
----

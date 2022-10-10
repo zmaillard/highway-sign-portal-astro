@@ -1,5 +1,0 @@
----
-name: Palisade
-slug: palisade
-
----

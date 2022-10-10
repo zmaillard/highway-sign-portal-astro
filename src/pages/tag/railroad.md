@@ -1,5 +1,0 @@
----
-name: Railroad
-slug: railroad
-
----

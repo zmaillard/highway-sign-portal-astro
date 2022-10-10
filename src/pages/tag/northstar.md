@@ -1,5 +1,0 @@
----
-name: Northstar
-slug: northstar
-
----

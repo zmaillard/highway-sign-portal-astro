@@ -1,5 +1,0 @@
----
-name: Graffiti
-slug: graffiti
-
----

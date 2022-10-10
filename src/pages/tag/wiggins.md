@@ -1,5 +1,0 @@
----
-name: Wiggins
-slug: wiggins
-
----

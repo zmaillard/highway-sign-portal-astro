@@ -1,5 +1,0 @@
----
-name: Gwendolen
-slug: gwendolen
-
----

@@ -1,5 +1,0 @@
----
-name: Catwalk
-slug: catwalk
-
----

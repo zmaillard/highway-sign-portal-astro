@@ -1,5 +1,0 @@
----
-name: Paiute
-slug: paiute
-
----

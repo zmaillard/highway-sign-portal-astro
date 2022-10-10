@@ -1,5 +1,0 @@
----
-name: Burnaby
-slug: burnaby
-
----

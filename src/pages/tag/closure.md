@@ -1,5 +1,0 @@
----
-name: Closure
-slug: closure
-
----

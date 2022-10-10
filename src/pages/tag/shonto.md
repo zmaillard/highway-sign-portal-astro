@@ -1,5 +1,0 @@
----
-name: Shonto
-slug: shonto
-
----

@@ -1,5 +1,0 @@
----
-name: Rosette
-slug: rosette
-
----

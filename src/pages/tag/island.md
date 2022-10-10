@@ -1,5 +1,0 @@
----
-name: Island
-slug: island
-
----

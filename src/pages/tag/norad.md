@@ -1,5 +1,0 @@
----
-name: NORAD
-slug: norad
-
----

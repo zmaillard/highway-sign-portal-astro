@@ -1,5 +1,0 @@
----
-name: NASA
-slug: nasa
-
----

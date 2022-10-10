@@ -1,5 +1,0 @@
----
-name: Parachute
-slug: parachute
-
----

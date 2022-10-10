@@ -1,5 +1,0 @@
----
-name: Cheveron
-slug: cheveron
-
----

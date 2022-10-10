@@ -1,5 +1,0 @@
----
-name: East
-slug: east
-
----

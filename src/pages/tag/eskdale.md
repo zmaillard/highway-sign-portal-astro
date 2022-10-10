@@ -1,5 +1,0 @@
----
-name: Eskdale
-slug: eskdale
-
----

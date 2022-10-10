@@ -1,5 +1,0 @@
----
-name: Amber
-slug: amber
-
----

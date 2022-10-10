@@ -1,5 +1,0 @@
----
-name: Pumpstation
-slug: pumpstation
-
----

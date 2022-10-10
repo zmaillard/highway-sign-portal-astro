@@ -1,5 +1,0 @@
----
-name: Grandjean
-slug: grandjean
-
----

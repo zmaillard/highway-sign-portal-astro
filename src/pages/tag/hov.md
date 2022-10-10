@@ -1,5 +1,0 @@
----
-name: HOV
-slug: hov
-
----

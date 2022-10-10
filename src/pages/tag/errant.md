@@ -1,5 +1,0 @@
----
-name: Errant
-slug: errant
-
----

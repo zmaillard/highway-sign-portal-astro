@@ -1,5 +1,0 @@
----
-name: Welcome
-slug: welcome
-
----

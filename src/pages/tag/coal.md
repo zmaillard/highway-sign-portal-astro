@@ -1,5 +1,0 @@
----
-name: Coal
-slug: coal
-
----

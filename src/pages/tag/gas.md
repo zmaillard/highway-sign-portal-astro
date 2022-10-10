@@ -1,5 +1,0 @@
----
-name: Gas
-slug: gas
-
----

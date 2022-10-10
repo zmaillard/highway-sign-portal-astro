@@ -1,5 +1,0 @@
----
-name: Mountain
-slug: mountain
-
----

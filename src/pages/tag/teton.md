@@ -1,5 +1,0 @@
----
-name: Teton
-slug: teton
-
----

@@ -1,5 +1,0 @@
----
-name: Akron
-slug: akron
-
----

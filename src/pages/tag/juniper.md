@@ -1,5 +1,0 @@
----
-name: Juniper
-slug: juniper
-
----

@@ -1,5 +1,0 @@
----
-name: Otis
-slug: otis
-
----

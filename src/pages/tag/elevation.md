@@ -1,5 +1,0 @@
----
-name: Elevation
-slug: elevation
-
----

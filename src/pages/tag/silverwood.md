@@ -1,5 +1,0 @@
----
-name: Silverwood
-slug: silverwood
-
----

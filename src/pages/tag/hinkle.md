@@ -1,5 +1,0 @@
----
-name: Hinkle
-slug: hinkle
-
----

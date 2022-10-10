@@ -1,5 +1,0 @@
----
-name: Cutout
-slug: cutout
-
----

@@ -1,5 +1,0 @@
----
-name: Sterling
-slug: sterling
-
----

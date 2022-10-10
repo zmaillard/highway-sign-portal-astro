@@ -1,5 +1,0 @@
----
-name: Chauita
-slug: chauita
-
----

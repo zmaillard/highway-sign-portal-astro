@@ -1,5 +1,0 @@
----
-name: Yellowstone
-slug: yellowstone
-
----

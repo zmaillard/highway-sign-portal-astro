@@ -1,5 +1,0 @@
----
-name: Speed
-slug: speed
-
----

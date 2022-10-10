@@ -1,5 +1,0 @@
----
-name: Power
-slug: power
-
----

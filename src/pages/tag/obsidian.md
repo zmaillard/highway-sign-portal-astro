@@ -1,5 +1,0 @@
----
-name: Obsidian
-slug: obsidian
-
----

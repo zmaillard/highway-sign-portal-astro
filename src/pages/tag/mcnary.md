@@ -1,5 +1,0 @@
----
-name: McNary
-slug: mcnary
-
----

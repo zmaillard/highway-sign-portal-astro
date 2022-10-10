@@ -1,5 +1,0 @@
----
-name: Smokestack
-slug: smokestack
-
----

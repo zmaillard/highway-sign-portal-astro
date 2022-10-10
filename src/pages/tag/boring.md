@@ -1,5 +1,0 @@
----
-name: Boring
-slug: boring
-
----

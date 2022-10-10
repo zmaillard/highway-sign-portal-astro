@@ -1,5 +1,0 @@
----
-name: Leadville
-slug: leadville
-
----

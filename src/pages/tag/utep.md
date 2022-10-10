@@ -1,5 +1,0 @@
----
-name: UTEP
-slug: utep
-
----

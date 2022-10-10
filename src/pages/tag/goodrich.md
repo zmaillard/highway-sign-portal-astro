@@ -1,5 +1,0 @@
----
-name: Goodrich
-slug: goodrich
-
----

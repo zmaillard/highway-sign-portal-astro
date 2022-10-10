@@ -1,5 +1,0 @@
----
-name: Redlight
-slug: redlight
-
----

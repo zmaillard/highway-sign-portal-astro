@@ -1,5 +1,0 @@
----
-name: Historic
-slug: historic
-
----

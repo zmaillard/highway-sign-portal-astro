@@ -1,5 +1,0 @@
----
-name: Border
-slug: border
-
----

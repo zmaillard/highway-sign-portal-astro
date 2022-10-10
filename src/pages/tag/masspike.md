@@ -1,5 +1,0 @@
----
-name: MassPike
-slug: masspike
-
----

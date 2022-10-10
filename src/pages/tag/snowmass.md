@@ -1,5 +1,0 @@
----
-name: Snowmass
-slug: snowmass
-
----

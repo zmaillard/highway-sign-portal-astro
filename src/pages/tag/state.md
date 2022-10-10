@@ -1,5 +1,0 @@
----
-name: State
-slug: state
-
----

@@ -1,5 +1,0 @@
----
-name: Detour
-slug: detour
-
----

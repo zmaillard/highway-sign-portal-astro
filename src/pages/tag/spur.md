@@ -1,5 +1,0 @@
----
-name: Spur
-slug: spur
-
----

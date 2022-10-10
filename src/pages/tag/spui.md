@@ -1,5 +1,0 @@
----
-name: SPUI
-slug: spui
-
----

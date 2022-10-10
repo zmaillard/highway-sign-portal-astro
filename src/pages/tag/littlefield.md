@@ -1,5 +1,0 @@
----
-name: Littlefield
-slug: littlefield
-
----

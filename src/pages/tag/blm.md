@@ -1,5 +1,0 @@
----
-name: BLM
-slug: blm
-
----

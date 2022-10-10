@@ -1,5 +1,0 @@
----
-name: Wyodak
-slug: wyodak
-
----

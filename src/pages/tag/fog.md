@@ -1,5 +1,0 @@
----
-name: Fog
-slug: fog
-
----

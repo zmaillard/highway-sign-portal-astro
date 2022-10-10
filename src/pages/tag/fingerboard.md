@@ -1,5 +1,0 @@
----
-name: Fingerboard
-slug: fingerboard
-
----

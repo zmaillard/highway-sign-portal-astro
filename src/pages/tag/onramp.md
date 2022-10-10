@@ -1,5 +1,0 @@
----
-name: Onramp
-slug: onramp
-
----

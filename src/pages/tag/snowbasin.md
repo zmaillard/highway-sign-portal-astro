@@ -1,5 +1,0 @@
----
-name: Snowbasin
-slug: snowbasin
-
----

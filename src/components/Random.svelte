@@ -9,7 +9,7 @@
   let countEndpoint =
     `https://signsearch.search.windows.net/indexes/sign-index/docs/$count?&api-version=2020-06-30-Preview&api-key=${import.meta.env.PUBLIC_SEARCH_QUERY_KEY}`;
   let randomEndpoint =
-    `https://signsearch.search.windows.net/indexes/sign-index/docs?api-version=2020-06-30-Preview&api-key=${import.meta.env.PUBLIC_SEARCH_QUERY_KEY}&$top=1&$skip=";
+    `https://signsearch.search.windows.net/indexes/sign-index/docs?api-version=2020-06-30-Preview&api-key=${import.meta.env.PUBLIC_SEARCH_QUERY_KEY}&$top=1&$skip=`;
 
   let signPage;
 
@@ -31,16 +31,6 @@
     for (const key in signs) {
       if (key == "../pages/sign/" + imageid + ".md") {
       signPage = await signs[key]();
-      console.log(signPage.frontmatter)
-      console.log(signPage)
-      console.log("Conent---")
-      console.log(await signPage.Content())
-      console.log("Default---")
-      console.log(await signPage.default())
-      console.log("Compiled---")
-      console.log(signPage.compiledContent())
-      console.log("Raw---")
-      console.log(signPage.rawContent())
       }
     }
 

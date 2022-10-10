@@ -1,5 +1,0 @@
----
-name: Lower
-slug: lower
-
----

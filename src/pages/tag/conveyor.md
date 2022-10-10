@@ -1,5 +1,0 @@
----
-name: Conveyor
-slug: conveyor
-
----

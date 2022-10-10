@@ -1,5 +1,0 @@
----
-name: Keystone
-slug: keystone
-
----

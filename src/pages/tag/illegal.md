@@ -1,5 +1,0 @@
----
-name: Illegal
-slug: illegal
-
----

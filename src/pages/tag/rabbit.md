@@ -1,5 +1,0 @@
----
-name: Rabbit
-slug: rabbit
-
----

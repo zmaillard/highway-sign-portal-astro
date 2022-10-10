@@ -1,5 +1,0 @@
----
-name: Village
-slug: village
-
----

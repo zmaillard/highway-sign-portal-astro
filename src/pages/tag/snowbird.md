@@ -1,5 +1,0 @@
----
-name: Snowbird
-slug: snowbird
-
----

@@ -1,5 +1,0 @@
----
-name: LAX
-slug: lax
-
----

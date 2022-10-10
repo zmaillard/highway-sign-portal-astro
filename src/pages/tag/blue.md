@@ -1,5 +1,0 @@
----
-name: Blue
-slug: blue
-
----

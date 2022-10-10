@@ -1,5 +1,0 @@
----
-name: Saguaro
-slug: saguaro
-
----

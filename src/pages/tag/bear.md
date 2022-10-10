@@ -1,5 +1,0 @@
----
-name: Bear
-slug: bear
-
----

@@ -1,5 +1,0 @@
----
-name: Worden
-slug: worden
-
----

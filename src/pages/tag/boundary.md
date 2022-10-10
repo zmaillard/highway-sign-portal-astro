@@ -1,5 +1,0 @@
----
-name: Boundary
-slug: boundary
-
----

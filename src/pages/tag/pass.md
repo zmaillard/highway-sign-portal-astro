@@ -1,5 +1,0 @@
----
-name: Pass
-slug: pass
-
----

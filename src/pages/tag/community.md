@@ -1,5 +1,0 @@
----
-name: Community
-slug: community
-
----

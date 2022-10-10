@@ -1,5 +1,0 @@
----
-name: Highway
-slug: highway
-
----

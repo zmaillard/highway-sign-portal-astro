@@ -1,5 +1,0 @@
----
-name: Clearview
-slug: clearview
-
----

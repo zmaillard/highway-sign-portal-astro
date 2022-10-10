@@ -1,5 +1,0 @@
----
-name: Bypass
-slug: bypass
-
----

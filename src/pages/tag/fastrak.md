@@ -1,5 +1,0 @@
----
-name: Fastrak
-slug: fastrak
-
----

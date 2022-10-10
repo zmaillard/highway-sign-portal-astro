@@ -1,5 +1,0 @@
----
-name: Alta
-slug: alta
-
----

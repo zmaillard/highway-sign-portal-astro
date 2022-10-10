@@ -1,5 +1,0 @@
----
-name: Coast
-slug: coast
-
----

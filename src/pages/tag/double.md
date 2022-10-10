@@ -1,5 +1,0 @@
----
-name: Double
-slug: double
-
----

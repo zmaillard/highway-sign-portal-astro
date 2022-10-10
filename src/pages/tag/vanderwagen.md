@@ -1,5 +1,0 @@
----
-name: Vanderwagen
-slug: vanderwagen
-
----

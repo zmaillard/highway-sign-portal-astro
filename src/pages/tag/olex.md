@@ -1,5 +1,0 @@
----
-name: Olex
-slug: olex
-
----

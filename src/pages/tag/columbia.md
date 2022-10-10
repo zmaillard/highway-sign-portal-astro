@@ -1,5 +1,0 @@
----
-name: Columbia
-slug: columbia
-
----

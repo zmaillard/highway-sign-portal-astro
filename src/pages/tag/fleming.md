@@ -1,5 +1,0 @@
----
-name: Fleming
-slug: fleming
-
----

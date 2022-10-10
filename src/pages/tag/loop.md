@@ -1,5 +1,0 @@
----
-name: Loop
-slug: loop
-
----

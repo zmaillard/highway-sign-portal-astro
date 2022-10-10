@@ -1,5 +1,0 @@
----
-name: Incorrect
-slug: incorrect
-
----

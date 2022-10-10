@@ -1,5 +1,0 @@
----
-name: Bellevue
-slug: bellevue
-
----

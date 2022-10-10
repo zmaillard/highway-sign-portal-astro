@@ -1,5 +1,0 @@
----
-name: Warning
-slug: warning
-
----

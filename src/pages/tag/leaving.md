@@ -1,5 +1,0 @@
----
-name: Leaving
-slug: leaving
-
----

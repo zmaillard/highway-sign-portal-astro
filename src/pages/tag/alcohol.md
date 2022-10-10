@@ -1,5 +1,0 @@
----
-name: Alcohol
-slug: alcohol
-
----

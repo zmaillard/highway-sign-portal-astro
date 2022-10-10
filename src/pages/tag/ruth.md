@@ -1,5 +1,0 @@
----
-name: ' Ruth'
-slug: ruth
-
----

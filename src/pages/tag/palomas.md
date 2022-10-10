@@ -1,5 +1,0 @@
----
-name: Palomas
-slug: palomas
-
----

@@ -1,5 +1,0 @@
----
-name: Airport
-slug: airport
-
----
