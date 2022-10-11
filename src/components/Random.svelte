@@ -28,11 +28,14 @@
     const res = await randResp.json();
     let imageid = res.value[0].ImageId;
     title = res.value[0].Title
+    
+    /*
     for (const key in signs) {
       if (key == "../pages/sign/" + imageid + ".md") {
       signPage = await signs[key]();
       }
     }
+  */
   });
 //<Single sign={signPage.frontmatter} />
 </script>
