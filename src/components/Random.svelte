@@ -4,7 +4,6 @@
   
 
   let randomNumber = 0;
-  let randomFile = null;
 
   let countEndpoint =
     `https://signsearch.search.windows.net/indexes/sign-index/docs/$count?&api-version=2020-06-30-Preview&api-key=${import.meta.env.PUBLIC_SEARCH_QUERY_KEY}`;
@@ -12,10 +11,11 @@
     `https://signsearch.search.windows.net/indexes/sign-index/docs?api-version=2020-06-30-Preview&api-key=${import.meta.env.PUBLIC_SEARCH_QUERY_KEY}&$top=1&$skip=`;
 
   let signPage;
+  let title;
 
 
   onMount(async function () {
-    let signs = import.meta.glob("../pages/sign/*.md");
+    //let signs = import.meta.glob("../pages/sign/*.md");
     const response = await fetch(countEndpoint);
     const data = await response.text();
 
@@ -27,18 +27,18 @@
     );
     const res = await randResp.json();
     let imageid = res.value[0].ImageId;
-
+    title = res.value[0].Title
     for (const key in signs) {
       if (key == "../pages/sign/" + imageid + ".md") {
       signPage = await signs[key]();
       }
     }
-
   });
+//<Single sign={signPage.frontmatter} />
 </script>
 
-{#if signPage}
-<Single sign={signPage.frontmatter} />
+{#if title}
+<p>{title}</p>
 {:else}
   <p>Loading</p>
 {/if}
