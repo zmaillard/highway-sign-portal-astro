@@ -25,7 +25,7 @@
       randomEndpoint + randomNumber.toString()
     );
     const res = await randResp.json();
-    let imageid = "909946843"; //res.value[0].ImageId;
+    let imageid = res.value[0].ImageId;
     
     for (const key in signs) {
       if (key == "../pages/sign/" + imageid + ".md") {
